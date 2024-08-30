@@ -10,7 +10,7 @@
 
 - ✉️ You can contact me at [nattkarn.p@hotmail.com](mailto:nattkarn.p@hotmail.com)
 
-- 🧠 Now Learning Spring Boot and Mobile App
+- 🧠 Now Learning FrontEnd & BackEnd road to Fullstack
 
 ### Skills
 
