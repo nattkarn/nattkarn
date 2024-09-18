@@ -10,7 +10,7 @@
 
 - ✉️ You can contact me at [nattkarn.p@hotmail.com](mailto:nattkarn.p@hotmail.com)
 
-- 🧠 Now Learning Spring Boot and Mobile App
+- 🧠 Now Learning Frontend and Backend. Become to Full Stack
 
 ### Skills
 
@@ -20,7 +20,6 @@
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/></a>
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></a>
 <a><img height='32' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/></a>
 </p>
 
 ##### Frontend (Junior Level :sob:)
@@ -28,7 +27,7 @@
 <p align="left">
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/></a>
+<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/></a>
 </p>
 
 ##### Backend
@@ -40,7 +39,6 @@
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" /></a>
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /></a>
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></a>
 
 
 </p>
