@@ -20,12 +20,12 @@
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/></a>
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></a>
 <a><img height='32' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" /></a>
+<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg">
 </p>
 
 ##### Frontend (Junior Level :sob:)
 
 <p align="left">
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/></a>
 </p>
 
@@ -34,7 +34,7 @@
 <p align="left">
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></a>
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" /></a>
+<a><img height='32' src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" /></a>
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" /></a>
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /></a>
 <a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a>
