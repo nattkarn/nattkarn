@@ -1,83 +1,98 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nattkarn Prajansri
+# 👋 Hi, I'm Nattkarn Prajansri
+
+I'm a **Backend Developer** based in **Bangkok, Thailand**.  
+Currently, I'm expanding my skills to become a **Full Stack Developer**, with a focus on both backend and frontend technologies.
+
+📫 **Email:** [nattkarn.p@hotmail.com](mailto:nattkarn.p@hotmail.com)
+
+---
+## 🚀 About Me
+
+- 🔧 Backend Developer with strong experience in **NestJS**, **authentication**, and **RESTful API development**
+- 💡 Passionate about scalable APIs, clean code, and cloud-native applications
+- 🌱 Currently growing towards full-stack with **Next.js** and modern frontend tools
+
+## 🧠 Currently Learning
+
+- Frontend development with **Next.js** and **TypeScript**
+- Clean architecture and advanced backend patterns
+
 
 ---
 
-##### Position: Backend Developer
+## 💼 Projects
+
+- 🧾 [Watchtower Tracker Domain Web Service](https://github.com/nattkarn/watchtower) — RESTful API with NextJS + NestJS + PostgreSQL
+
+<!-- - 🌐 [Portfolio Website](https://yourportfolio.com) — Built with Next.js, hosted on Google Cloud -->
+
+
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages  
+<p align="left">
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="32" />
+</p>
+
+<br/>
+
+### 🔧 Backend Frameworks  
+<p align="left">
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="32" />
+</p>
+
+<br/>
+
+### 🎨 Frontend (Junior Level)  
+<p align="left">
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="32" />
+</p>
+
+<br/>
+
+### 🗄️ Databases  
+<p align="left">
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="32" />
+</p>
+
+<br/>
+
+### ☁️ Cloud & Deployment  
+<p align="left">
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="32" />
+</p>
+
+<br/>
+
+### 🧰 Tools  
+<p align="left">
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="32" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="32" />
+</p>
+
+<br/>
+
+
+## 📊 GitHub Stats
+
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nattkarn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattkarn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
 
 ---
-
-- 🌍 Based in Bangkok Thailand
-
-- ✉️ You can contact me at [nattkarn.p@hotmail.com](mailto:nattkarn.p@hotmail.com)
-
-- 🧠 Now Learning Frontend and Backend. Become to Full Stack
-
-### Skills
-
-##### Languages
-
-<p align="left">
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></a>
-<a><img height='32' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg">
-</p>
-
-##### Frontend (Junior Level :sob:)
-
-<p align="left">
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/></a>
-</p>
-
-##### Backend
-
-<p align="left">
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></a>
-<a><img height='32' src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a>
-
-
-</p>
-
-##### Database
-
-<p align="left">
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></a>
-
-
-</p>
-
-##### Cloud && Deployment
-
-<p align="left">
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
-
-
-
-
-
-</p>
-
-##### Others
-
-<p align="left">
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /></a>
-<a><img height='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
-
-
-
-</p>
-
-
-### Badges
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nattkarn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"  align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattkarn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"  alt="Top Languages"/></a>
