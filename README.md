@@ -24,6 +24,8 @@ Currently, I'm expanding my skills to become a **Full Stack Developer**, with a 
 
 - 🧾 [Watchtower Tracker Domain Web Service](https://github.com/nattkarn/watchtower) — RESTful API with NextJS + NestJS + PostgreSQL
 
+- 🧾 [Backend API Authentication with NestJS](https://github.com/nattkarn/nestjs_auth_2025) — RESTful API with NestJS + PostgreSQL
+
 <!-- - 🌐 [Portfolio Website](https://yourportfolio.com) — Built with Next.js, hosted on Google Cloud -->
 
 
